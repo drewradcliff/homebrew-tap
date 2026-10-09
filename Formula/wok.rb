@@ -1,8 +1,8 @@
 class Wok < Formula
   desc "Neovim without the config"
   homepage "https://github.com/drewradcliff/wok"
-  url "https://github.com/drewradcliff/wok/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "7d1a0176b90058c9588ae3f0d4d6a89e2a5db471b751620a34a2797bd868cdd2"
+  url "https://github.com/drewradcliff/wok/archive/refs/tags/v0.2.0.tar.gz"
+  sha256 "e6ed2a53c56fc546d4bb9e52cc8fd8b4d516e8107a3ccd5df93843f4e46ddcd4"
   license "MIT"
 
   depends_on "fd"
