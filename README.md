@@ -1,7 +1,5 @@
 # drewradcliff/tap
 
-Homebrew formulae for my tools.
-
 ```sh
 brew install drewradcliff/tap/<formula>
 ```
