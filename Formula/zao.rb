@@ -2,7 +2,7 @@ class Zao < Formula
   desc "Zsh without the config"
   homepage "https://github.com/drewradcliff/zao"
   url "https://github.com/drewradcliff/zao/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "0000000000000000000000000000000000000000000000000000000000000000"
+  sha256 "2f0dbecdf10754f875e807fdc9e864f1f4dba299fad59135d882d7bafecdab8a"
   license "MIT"
 
   depends_on "fzf"
